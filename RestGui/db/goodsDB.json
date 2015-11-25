@@ -1,0 +1,19 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "name": "monkey",
+      "price": 2000,
+      "weight": 20,
+      "country": "USA",
+      "categoryId": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "animal",
+      "parent": 0
+    }
+  ]
+}
